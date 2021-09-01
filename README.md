@@ -12,7 +12,7 @@ these steps are.
  Automatic attendance system
 
 
-1)FACE DETECTION 
+<h3>1) FACE DETECTION</h3>
 Difference between face detection and face recognition are often misunderstood. 
 Face detection is to determine only the face segment or face region from image, 
 whereas face recognition is to identify the owner of the facial image.
@@ -24,7 +24,7 @@ use this toolbox in detection of other types of different object. The command to
 the toolbox and its feature that is face detection is vision.cascadeobjectdetector.
 
 
-2) Data collection 
+<h3>2) Data collection</h3>
 Data collection plays an essential role to improve the accuracy of face recognition. 
 Scaling is of image is part of data collection and the important preprocessing steps to 
 manipulate the size of the image. Scaling down of an image increases the processing 
@@ -42,7 +42,7 @@ computational power compared to grayscale images. If colour image is not necessa
 in computation, then it is considered as noise. 
 
 
-3)Face Recognition
+<h3>3) Face Recognition</h3>
 Face Recognition Technique (FRT) can only recognize a face if a specific individual face 
 has alreadybeen added to the system in advance. Hence this step involves testing and 
 training process through which we can distinguish between different faces.Thecondition 
@@ -65,13 +65,13 @@ human face. Some of them are:-
  Chin
 
 
-4) AUTOMATIC ATTENDANCE SYSTEM:-
+<h3>4) AUTOMATIC ATTENDANCE SYSTEM:-</h3>
 The last step involves the marking of attendance after the system recognises the 
 face. The attendance will going to be marked on an excel sheet by using the 
 inbuilt function of MATLAB that is xlswrite(‘foldername’,data, , ‘range of sheet’).
 
 
-RESULT
+<h3>RESULT</h3>
 In this proposed approach, face recognition student attendance system with 
 userfriendly interface is designed by using MATLAB. With the help of each 
 sophisticated code each provides specific function, for example, detection code 
