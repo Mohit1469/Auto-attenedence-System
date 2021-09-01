@@ -1,4 +1,4 @@
-# Auto-attenedence-System
+# <h1>Auto-attenedence-System</h1>
 The main objective of this project is to develop face recognition based 
 automated student attendance system. The test images and training images 
 have to be captured by using the same device to ensure no quality difference. In 
